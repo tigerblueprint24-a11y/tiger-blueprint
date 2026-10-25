@@ -1,0 +1,8 @@
+# Ignore local environment files
+.env
+.env.*
+*.log
+.DS_Store
+node_modules/
+__pycache__/
+venv/
