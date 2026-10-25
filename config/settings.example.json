@@ -1,0 +1,15 @@
+{
+  "name": "tiger-blueprint",
+  "environment": "development",
+  "version": "0.1.0",
+  "notes": [
+    "Use this file as a template for environment-specific settings.",
+    "Do not commit secrets or private credentials.",
+    "Copy this file to a local override when needed."
+  ],
+  "settings": {
+    "debug": true,
+    "log_level": "info",
+    "default_timezone": "UTC"
+  }
+}
